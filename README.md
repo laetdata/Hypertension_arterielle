@@ -81,5 +81,5 @@ Nous avons traité les outliers.
 
 Après avoir fait l'ACP et le clustering, nous pouvons voir dans quelle catégorie appartient chaque aliment par rapport à l'hypertendu. 
 <br />
-<img Align="center" alt="cl" width="400px" src="https://github.com/laetdata/Hypertension_arterielle/blob/main/img/classification.png.png" style="padding-right:10px;" />
+<img Align="center" alt="cl" width="400px" src="https://github.com/laetdata/Hypertension_arterielle/blob/main/img/classification.png" style="padding-right:10px;" />
 
