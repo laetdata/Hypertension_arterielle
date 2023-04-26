@@ -19,6 +19,7 @@ Nous participons à cet appel à projet et nous avons proposé une idée d'appli
 <br />
 <br>
 Notre mission était de : 
+<br>
 ✔ Traiter le jeu de données en réflecissant à une idée d'application, en répérant des vraiables pertinentes en nettoyant les données et en automatisant les traitements.  <br>
 ✔ Faire des analyses en rapport avec l'idée d'application et de justifier la faisabilité (ou non) de l'application à partir des données OpenFoodFacts.  <br>
 
