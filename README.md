@@ -1,14 +1,14 @@
 # Hypertension_arterielle
 
 <div>
-    <img Align="left" alt="Academy" width="200px" src="https://github.com/laetdata/Hypertension_arterielle/blob/main/img/hypertension.png" style="padding-right:10px;" />
+    <img Align="left" alt="Hypertension" width="200px" src="https://github.com/laetdata/Hypertension_arterielle/blob/main/img/hypertension.png" style="padding-right:10px;" />
 </div>
 <br />
                                                                                                                                            
 
 ---
 
-<img Align="left" alt="Academy" width="400px" src="https://github.com/laetdata/Hypertension_arterielle/blob/main/img/sante_publique.png" style="padding-right:10px;" />
+<img Align="left" alt="Sante_publique" width="400px" src="https://github.com/laetdata/Hypertension_arterielle/blob/main/img/sante_publique.png" style="padding-right:10px;" />
 
 L'agence "Santé Publique France" a lancé un appel à projets pour trouver des idées innovantes d'applications en lien avec l'alimentation. 
 Nous participons à cet appel à projet et nous avons proposé une idée d'application. 
@@ -44,7 +44,7 @@ Il faut faire notamment attention à une alimentation trop riche en sel et pauvr
 ---
 
 
-<img Align="left" alt="Academy" width="400px" src="https://github.com/laetdata/Hypertension_arterielle/blob/main/img/application.png" style="padding-right:10px;" />
+<img Align="left" alt="Hypertension_arterielle" width="400px" src="https://github.com/laetdata/Hypertension_arterielle/blob/main/img/application.png" style="padding-right:10px;" />
 
 <br />
 L'idée est de créer une application qui lorsqu'on scanne le code d'un produit, elle nous dit si un hypertendu peut le consommer sans moderation, avec modération, ou s'il doit l'éviter. 
@@ -81,5 +81,5 @@ Nous avons traité les outliers.
 
 Après avoir fait l'ACP et le clustering, nous pouvons voir dans quelle catégorie appartient chaque aliment par rapport à l'hypertendu. 
 <br />
-<img  alt="cl" width="400px" src="https://github.com/laetdata/Hypertension_arterielle/blob/main/img/classification.png" style="padding-right:10px;" />
+<img  Align="center" alt="classification" width="400px" src="https://github.com/laetdata/Hypertension_arterielle/blob/main/img/classification.png" style="padding-right:10px;" />
 
