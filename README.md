@@ -13,7 +13,7 @@
 L'agence "Santé Publique France" a lancé un appel à projets pour trouver des idées innovantes d'applications en lien avec l'alimentation. 
 Nous participons à cet appel à projet et nous avons proposé une idée d'application. 
 <br>
-✔Le jeu de données fournit pour cet appel à projet est le fichier Open Food Facts disponoble sur le site world.openfoodfacts.or <br>
+✔Le jeu de données fournit pour cet appel à projet est le fichier Open Food Facts disponoble sur le site world.openfoodfacts.org <br>
 
 ---
 <br />
