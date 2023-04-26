@@ -28,7 +28,7 @@ Notre mission était de :
 
 ---
 <br />
-Pour répondre remplir notre mission, nous avons d'abord défini ce qu'est l'hypertension.
+Pour répondre remplir à notre mission, nous avons d'abord défini ce qu'est l'hypertension.
 
 L'hypertension artérielle est une maladie cardiovasculaire. 
 Elle est caractérisé par une tension élevée. Si elle n'est pas pris en charge, elle provoque des problèmes à long terme comme par exemple l'infractus du myocarde, l'accident cérébrel ou l'insuffisance cardiaque.
