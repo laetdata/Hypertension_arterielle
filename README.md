@@ -12,8 +12,11 @@
 
 L'agence "Santé Publique France" a lancé un appel à projets pour trouver des idées innovantes d'applications en lien avec l'alimentation. 
 Nous participons à cet appel à projet et nous avons proposé une idée d'application. 
+<br>
 ✔Le jeu de données fournit pour cet appel à projet est le fichier Open Food Facts disponoble sur le site world.openfoodfacts.or <br>
 
+---
+<br />
 <br>
 Notre mission était de : 
 ✔ Traiter le jeu de données en réflecissant à une idée d'application, en répérant des vraiables pertinentes en nettoyant les données et en automatisant les traitements.  <br>
@@ -23,6 +26,7 @@ Notre mission était de :
                                                                                                                                       
 
 ---
+<br />
 Pour répondre remplir notre mission, nous avons d'abord défini ce qu'est l'hypertension.
 
 L'hypertension artérielle est une maladie cardiovasculaire. 
